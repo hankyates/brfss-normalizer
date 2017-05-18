@@ -1,0 +1,29 @@
+{
+  "SEX": {
+    "description": "Indicate sex of respondent.",
+    "SAS_variable_name": "SEX",
+    "section": "7.1",
+    "labels": {
+      "1": "Male",
+      "2": "Female"
+    }
+  },
+  "CTYCODE1": {
+    "description": "What county do you live in?",
+    "SAS_variable_name": "CTYCODE1",
+    "section": "7.9",
+    "labels": {
+      "777": "Don't Know/Not Sure",
+      "999": "Refused"
+    }
+  },
+  "ZIPCODE": {
+    "description": "What is your ZIP Code where you live?",
+    "SAS_variable_name": "ZIPCODE",
+    "section": "7.10",
+    "labels": {
+      "77777": "Don't Know/Not Sure",
+      "99999": "Refused"
+    }
+  }
+}

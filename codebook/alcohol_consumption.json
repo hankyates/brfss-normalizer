@@ -1,0 +1,12 @@
+{
+  "ALCDAY5": {
+    "description": "During the past 30 days, how many days per week or per month did you have at least one drink of any alcoholic beverage such as beer, wine, a malt beverage or liquor?",
+    "SAS_variable_name": "ALCDAY5",
+    "section": "9.1",
+    "labels": {
+      "777": "Don't know",
+      "888": "No drinks in past 30 days",
+      "999": "Refused"
+    }
+  }
+}

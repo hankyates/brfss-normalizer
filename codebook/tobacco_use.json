@@ -1,0 +1,13 @@
+{
+  "KDAY2": {
+    "description": "Do you now smoke cigarettes every day, some days, or not at all?",
+    "SAS_variable_name": "KDAY2",
+    "section": "8.2",
+    "labels": {
+      "1": "Every day",
+      "2": "Some days",
+      "3": "Not at all",
+      "9": "Refused"
+    }
+  }
+}
